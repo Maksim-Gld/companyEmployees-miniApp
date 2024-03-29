@@ -1,6 +1,6 @@
 # App - "companyEmployers-miniApp"
 
-Stack: React / Java Script / HTML / CSS (SASS) / Webpack
+Stack: React / Java Script / HTML / CSS (SASS)
 
 \
 Web application with various modules:
